@@ -1,2 +1,2 @@
-# The Maze
+# The Maze Project
 
