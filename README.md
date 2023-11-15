@@ -56,7 +56,7 @@ where ```MAP``` is the name of the file found in the maps folder. You can create
 ## Contributing
 
 - Read the source files in ```src``` folder and the header files in ```inc``` folder.
-- Clone the repo and make a new branch: $ git checkout https://github.com/candiepih/The-Maze -b [name_of_new_branch].
+- Clone the repo and make a new branch: $ git checkout https://github.com/ahmeddo7a/TheMaze -b [name_of_new_branch].
 - Add a feature, fix a bug, or refactor some code :)
 - Write/update tests for the changes you made, if necessary.
 - Update README.md if necessary.
