@@ -101,6 +101,9 @@ Contains map data files. This will be used by the program to output the map layo
 
 *[The Maze](https://alx-intranet.hbtn.io/concepts/133)* - ALX Project Page
 
+## License
+**BSD**
+
 
 # Authors
 
